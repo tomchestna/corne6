@@ -19,7 +19,7 @@
             tapping-term-ms = <200>;
             require-prior-idle-ms = <75>;
             flavor = "tap-preferred";
-            quick-tap-ms = <75>;
+            quick-tap-ms = <100>;
         };
 
         ktm: ktm {
@@ -30,7 +30,7 @@
             #binding-cells = <2>;
             tapping-term-ms = <200>;
             require-prior-idle-ms = <75>;
-            quick-tap-ms = <50>;
+            quick-tap-ms = <100>;
         };
     };
 
